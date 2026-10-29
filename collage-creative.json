@@ -1,0 +1,37 @@
+[
+ {
+  "name": "creative-2-collage",
+  "logo": "logo-weiss-hd.png",
+  "fotos": [
+   "img/foto-hd-01-markierung-crop.jpg",
+   "img/foto-hd-02-schild-30.jpg",
+   "img/foto-hd-05-reinigung.jpg"
+  ],
+  "fokus": [
+   [
+    0.3,
+    0.5
+   ],
+   [
+    0.75,
+    0.45
+   ],
+   [
+    0.45,
+    0.6
+   ]
+  ],
+  "primary": "#4F7A26",
+  "headline": [
+   "Straßen-",
+   "wärter"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "Straßenunterhaltung in Konstanz",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ }
+]

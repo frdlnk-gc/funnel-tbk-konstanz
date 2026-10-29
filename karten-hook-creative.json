@@ -1,0 +1,23 @@
+[
+ {
+  "name": "creative-1-karten-hook",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-team-unimog.jpg",
+  "fokus": [
+   0.62,
+   0.3
+  ],
+  "karte": "img/karte.jpg",
+  "primary": "#4F7A26",
+  "headline": [
+   "STRASSEN-",
+   "WÄRTER"
+  ],
+  "headline_zusatz": "(m/w/d) · unbefristet",
+  "pill": [
+   "Ohne Lebenslauf &",
+   "Anschreiben!"
+  ],
+  "ort": "Konstanz · Radolfzell · Singen"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-04-walze.jpg",
+  "primary": "#4F7A26",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "kicker": "WIR SUCHEN IN KONSTANZ",
+  "headline": [
+   "Straßenwärter",
+   "(m/w/d)"
+  ],
+  "subline": "Unbefristet · Jahressonderzahlung",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.55
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-03-beschilderung-crop.jpg",
+  "primary": "#4F7A26",
+  "panel": "bottom",
+  "panel_hoehe": 0.6,
+  "panel_bg": "#FFFFFF",
+  "kicker": "STRASSENUNTERHALTUNG IN KONSTANZ",
+  "headline": [
+   "Straßenwärter (m/w/d)"
+  ],
+  "checkliste": [
+   "Unbefristeter Arbeitsvertrag",
+   "Jahressonderzahlung & Leistungsentgelt",
+   "Betriebliche Altersvorsorge"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.42
+  ]
+ }
+]
