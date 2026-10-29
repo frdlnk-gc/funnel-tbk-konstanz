@@ -1,0 +1,107 @@
+{
+ "firma": "TBK Konstanz",
+ "stelle": "Straßenwärter (m/w/d)",
+ "ort": "Konstanz",
+ "plz": "78467",
+ "branche": "strassen_tiefbau",
+ "farbe_primary": "#4F7A26",
+ "farbe_secondary": "#1E1E1E",
+ "region_badge": "Konstanz & Umgebung",
+ "benefit_top": "Unbefristeter Arbeitsvertrag",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag",
+  "Jahressonderzahlung und Leistungsentgelt",
+  "Betriebliche Altersvorsorge & Lebensarbeitszeitkonto",
+  "Jobticket-Zuschuss zum ÖPNV",
+  "Gesundheitsangebote",
+  "Strukturierte Abläufe & freundliches Arbeitsklima"
+ ],
+ "aufgaben": [
+  "Du kümmerst dich um den Unterhalt von Beschilderung und Markierung",
+  "Du setzt verkehrsrechtliche Anordnungen um",
+  "Du wirkst im kommunalen Winterdienst mit",
+  "Du unterstützt bei Sondereinsätzen und Großveranstaltungen",
+  "Mit rund 20 Kollegen der Abteilung Straßenunterhaltung pflegst du Straßen, Wege und Plätze in Konstanz und sorgst für Verkehrssicherheit"
+ ],
+ "anforderung": "Du hast eine abgeschlossene Ausbildung als Straßenwärter und Erfahrung mit Beschilderung und Markierung sowie mit Werkzeugen, Maschinen und Material. Führerschein Klasse CE ist erforderlich.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Straßenwärter",
+   "icon": "🚧",
+   "qualifikationen": [
+    {
+     "label": "Ausgebildet – mit Erfahrung in Beschilderung & Markierung",
+     "icon": "🪧"
+    },
+    {
+     "label": "Ausgebildet – andere Schwerpunkte",
+     "icon": "🛠️"
+    }
+   ]
+  },
+  {
+   "label": "Straßen- & Tiefbau",
+   "icon": "🛣️",
+   "qualifikationen": [
+    {
+     "label": "Ausgebildeter Straßenbauer o. vergleichbar",
+     "icon": "🎓"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Abgeschlossene Ausbildung",
+     "icon": "🎓"
+    },
+    {
+     "label": "Ohne Ausbildung",
+     "icon": "💡"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "120",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "1997",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "rund 20",
+    "label": "in deiner Abteilung"
+   }
+  ],
+  "text": "Die Technischen Betriebe Stadt Konstanz (TBK) sind das kommunale Unternehmen der Stadt Konstanz. Sie pflegen und unterhalten öffentliche Straßen, Wege, Plätze und Grünanlagen – von Straßenunterhaltung und Stadtreinigung über den Winterdienst bis zum Garten- und Landschaftsbau und den städtischen Friedhöfen."
+ },
+ "kunde_tab": "36 TBK Konstanz",
+ "quelle": "https://tbk-konstanz.green-careers.de",
+ "logo": "logo.png",
+ "hero_bild": "img/hero-team-unimog.jpg",
+ "bilder": [
+  "img/foto-01-markierung.jpg",
+  "img/foto-02-schild-30.jpg",
+  "img/foto-03-beschilderung.jpg",
+  "img/foto-04-walze.jpg",
+  "img/foto-05-reinigung.jpg",
+  "img/foto-06-radweg.jpg",
+  "img/foto-07-zebrastreifen.jpg",
+  "img/foto-08-absperrung.jpg"
+ ],
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Konstanz"
+ }
+}
